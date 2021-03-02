@@ -1,0 +1,11 @@
+body {
+    font-family: "Nunito";
+}
+
+.main {
+    min-height: 100vh;
+    background-image: url("/public/images/diner.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
